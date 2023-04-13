@@ -21,3 +21,12 @@ _Data: 11/04/23_
 _Autor: Murilo Ramos_
 
 Adicionando estrutura inicial da "Minha Área" com auto layout: Header Fixo e Menu Lateral; componentização do botão "Botão Rede Social" utilizado no header.
+
+## Componentização do Header Fixo e Modificações na "Minha Área"
+_Id da issue: #6_
+
+_Data: 12/04/23_
+
+_Autor: Murilo Ramos_
+
+Criando parte da seção de exibição das informações do usuário na página "Minha Área"; componentização do header fixo.
